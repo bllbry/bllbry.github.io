@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>It’s a Cop’s Deal</title>
+	<founding-date>August 10, 2014</founding-date>
+	<website>www.copsdeal.org</website>
+	<based-in>University of Cape Town</based-in>
+	
+	<press-contact>bllbry001@myuct.ac.za</press-contact>
+	<phone>+263 (0)60 485 3817</phone>
+	<address>
+
+	</address>
+
+	<socials>
+		
+	</socials>
+
+	<description>	
+		The game is a side scrolling platformed style game. The game is inspired from Robo-Cop and was developed for a UCT Game Design course. The background of the game is basically that you are a ‘super cop’ created by team of scientists to clean up the city. The objective of the game is to kill as many enemies as possible and then reach the citizen at the end once defeating the boss. It only has one level of late. The game does have power ups and health packs which increase your health and unlock weapons.
+	</description>
+		
+	<histories>
+		
+	</histories>
+		
+	<trailers>
+		
+	</trailers>
+	
+	<awards>
+		
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>Best Game Ever</description>
+			<name>Jim Bond</name>
+			<website>Jim Bond</website>
+			<link>http://www.jimbond.com/</link>
+		</quote>
+		
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Stephen Challenger</person>
+			<website>www.OpenGameArt.org</website>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Connor Sherson</person>
+			<website>www.OpenGameArt.org</website>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Benjamin Pickhardt</person>
+			<website>hackcraft.de</website>
+			<role>Artist, Freelancer</role>
+		</credit>
+		
+	</credits>
+	
+	<contacts>
+		
+	</contacts>
+</game>
